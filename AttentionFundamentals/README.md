@@ -1,4 +1,5 @@
 # Attention Fundamentals
+<<<<<<< HEAD
 
 ## References
 
@@ -9,5 +10,11 @@
 - [X-Former: In-Memory Acceleration of Transformers](https://ieeexplore.ieee.org/abstract/document/10155455)
 
 ## TODO student contributors
+=======
+## Student contributors
+- Johan Sweldens (jws2215)
+- Han Yong Wunrow (nhw2114) 
+- Flor Sanders (fps2116)
+>>>>>>> 6f28e39b0ce4eb1cbf6c658e331749aafb465d40
 
 ## TODO add content
