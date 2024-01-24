@@ -24,20 +24,20 @@
 
 Proposed structure:
 
-- Intro
-- Setup what / why
+- Intro (Johan)
+- Setup what / why (Johan)
   - LSTM/RNNs and their issues
   - Inspiration from attention in nature
   - Historical context
-- Initial architecture of LSTMs + Attention
+- Initial architecture of LSTMs + Attention (Han Yong)
   - (Neural Machine Translation by Jointly Learning to Align and Translate) --> Introduction of the architecture
   - Some of the results
-  - A reference implementation
-- Where attention
+  - A reference implementation (Collective)
+- Where attention (Flor)
   - Different attention mechanisms
   - Give two examples and explain their differences
   - Show numerical examples
-- How attention is used in different applications from there
+- How attention is used in different applications from there (Flor)
   - Discuss applications + architectures
   - Hint towards the: do we actually need RNNs?
     --> Attention is all we need as cliffhanger
